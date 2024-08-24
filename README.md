@@ -22,7 +22,7 @@ This project is ideal for individuals and families who want to keep a close eye 
 
 ## Author
 - **Name**: Lawrence Lewis
-- **Email**:[lawrence3288lewis@outlook.com
+- **Email**: lawrence3288lewis@outlook.com
 - **Website**: Florida Blue
 
 - Lawrence Lewis is a highly skilled software developer with a passion for creating user-centric applications. With over a decade of experience in the industry.
